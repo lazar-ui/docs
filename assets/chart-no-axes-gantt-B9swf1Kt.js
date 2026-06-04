@@ -1,0 +1,1 @@
+import{c as t}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const o=[["path",{d:"M6 5h12",key:"fvfigv"}],["path",{d:"M4 12h10",key:"oujl3d"}],["path",{d:"M12 19h8",key:"baeox8"}]],h=t("chart-no-axes-gantt",o);export{o as __iconNode,h as default};

@@ -1,0 +1,1 @@
+import{c as o}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const r=[["path",{d:"m5 9 7-7 7 7",key:"1hw5ic"}],["path",{d:"M12 16V2",key:"ywoabb"}],["circle",{cx:"12",cy:"21",r:"1",key:"o0uj5v"}]],m=o("arrow-up-from-dot",r);export{r as __iconNode,m as default};

@@ -1,0 +1,1 @@
+import{c as t}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const o=[["path",{d:"M6 22V2.8a.8.8 0 0 1 1.17-.71l11.38 5.69a.8.8 0 0 1 0 1.44L6 15.5",key:"kfjsu0"}]],p=t("flag-triangle-right",o);export{o as __iconNode,p as default};

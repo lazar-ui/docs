@@ -1,0 +1,1 @@
+import{c as o}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const t=[["path",{d:"M5 21v-6",key:"1hz6c0"}],["path",{d:"M12 21V9",key:"uvy0l4"}],["path",{d:"M19 21V3",key:"11j9sm"}]],i=o("chart-no-axes-column-increasing",t);export{t as __iconNode,i as default};

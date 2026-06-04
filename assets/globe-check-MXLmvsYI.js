@@ -1,0 +1,1 @@
+import{c as o}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const e=[["path",{d:"m15 6 2 2 4-4",key:"levio8"}],["path",{d:"M2 12h20A10 10 0 1 1 12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 4-10",key:"46evmv"}]],r=o("globe-check",e);export{e as __iconNode,r as default};

@@ -1,0 +1,1 @@
+import{c as o}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const t=[["path",{d:"M12 7.5a4.5 4.5 0 1 1 5 4.5",key:"k987hv"}],["path",{d:"M7 12a4.5 4.5 0 1 1 5-4.5V21",key:"mjup0w"}]],p=o("zodiac-aries",t);export{t as __iconNode,p as default};

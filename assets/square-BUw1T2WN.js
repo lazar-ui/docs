@@ -1,0 +1,1 @@
+import{c as t}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const o=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}]],m=t("square",o);export{o as __iconNode,m as default};

@@ -1,0 +1,1 @@
+import{c as o}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const c=[["path",{d:"M20 6 9 17l-5-5",key:"1gmf2c"}]],p=o("check",c);export{c as __iconNode,p as default};
