@@ -1,0 +1,1 @@
+import{R as i}from"./iframe-C2uZ-YCP.js";import{i as n}from"./isValidReactNode-DoW4NTTO.js";const c=(f,o)=>{const e={children:[]};return o.forEach(r=>{e[r]=null}),i.Children.forEach(f,r=>{let t=!1;o.forEach(a=>{n(a,r,!1)&&(e[a]=r,t=!0),t||e.children.push(r)})}),e};export{c as g};

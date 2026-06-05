@@ -1,0 +1,6 @@
+import{c as e}from"./createLucideIcon-CQTXUGn7.js";import"./iframe-C2uZ-YCP.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-Ci6u58Ld.js";import"./clsx-B-dksMZM.js";/**
+ * @license lucide-react v1.17.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const o=[["path",{d:"M12.7 3H4a2 2 0 0 0-2 2v16.286a.71.71 0 0 0 1.212.502l2.202-2.202A2 2 0 0 1 6.828 19H20a2 2 0 0 0 2-2v-4.7",key:"wjb7ig"}],["circle",{cx:"19",cy:"6",r:"3",key:"108a5v"}]],s=e("message-square-dot",o);export{o as __iconNode,s as default};
