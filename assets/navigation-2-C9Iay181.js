@@ -1,1 +1,0 @@
-import{c as o}from"./createLucideIcon-N35DCDT5.js";import"./iframe-DAizPdsd.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon--d939Lwz.js";import"./clsx-B-dksMZM.js";const t=[["polygon",{points:"12 2 19 21 12 17 5 21 12 2",key:"x8c0qg"}]],r=o("navigation-2",t);export{t as __iconNode,r as default};
