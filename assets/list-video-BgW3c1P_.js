@@ -1,6 +1,0 @@
-import{c as t}from"./createLucideIcon-CQTXUGn7.js";import"./iframe-C2uZ-YCP.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-Ci6u58Ld.js";import"./clsx-B-dksMZM.js";/**
- * @license lucide-react v1.17.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const o=[["path",{d:"M21 5H3",key:"1fi0y6"}],["path",{d:"M10 12H3",key:"1ulcyk"}],["path",{d:"M10 19H3",key:"108z41"}],["path",{d:"M15 12.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997a1 1 0 0 1-1.517-.86z",key:"ms4nik"}]],c=t("list-video",o);export{o as __iconNode,c as default};

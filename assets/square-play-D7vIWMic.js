@@ -1,0 +1,6 @@
+import{c as t}from"./createLucideIcon-BzQ4Syrz.js";import"./iframe-BvesvkT0.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-BuGd20R_.js";import"./clsx-B-dksMZM.js";/**
+ * @license lucide-react v1.17.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const o=[["rect",{x:"3",y:"3",width:"18",height:"18",rx:"2",key:"h1oib"}],["path",{d:"M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z",key:"kmsa83"}]],p=t("square-play",o);export{o as __iconNode,p as default};

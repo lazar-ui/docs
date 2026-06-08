@@ -1,6 +1,0 @@
-import{c as t}from"./createLucideIcon-CQTXUGn7.js";import"./iframe-C2uZ-YCP.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-Ci6u58Ld.js";import"./clsx-B-dksMZM.js";/**
- * @license lucide-react v1.17.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const o=[["path",{d:"M12 13v8",key:"1l5pq0"}],["path",{d:"M12 3v3",key:"1n5kay"}],["path",{d:"M18.172 6a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1z",key:"8gz4t4"}]],c=t("milestone",o);export{o as __iconNode,c as default};
