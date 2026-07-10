@@ -1,0 +1,6 @@
+import{c as t}from"./createLucideIcon-Dcb8ZC65.js";import"./iframe-BNzaeSrw.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-D-LivCp1.js";import"./clsx-B-dksMZM.js";/**
+ * @license lucide-react v1.17.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const o=[["path",{d:"M12.8 19.6A2 2 0 1 0 14 16H2",key:"148xed"}],["path",{d:"M17.5 8a2.5 2.5 0 1 1 2 4H2",key:"1u4tom"}],["path",{d:"M9.8 4.4A2 2 0 1 1 11 8H2",key:"75valh"}]],r=t("wind",o);export{o as __iconNode,r as default};
