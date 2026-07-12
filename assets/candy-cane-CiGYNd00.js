@@ -1,0 +1,6 @@
+import{c as t}from"./createLucideIcon-q3QU9Yxk.js";import"./iframe-DOjpftTG.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-DPJhjQUd.js";import"./clsx-B-dksMZM.js";/**
+ * @license lucide-react v1.17.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const a=[["path",{d:"m10.8 5 2.111 4.223",key:"11kb8w"}],["path",{d:"M17.75 7 15 2.1",key:"12x7e8"}],["path",{d:"m4.874 14.647 2.12 4.24",key:"ccpt4b"}],["path",{d:"M5.7 21a2 2 0 0 1-3.5-2l8.6-14a6 6 0 0 1 10.4 6 2 2 0 1 1-3.464-2 2 2 0 1 0-3.464-2z",key:"u5e8z4"}],["path",{d:"m7.906 9.712 2.005 4.411",key:"1k0qph"}]],m=t("candy-cane",a);export{a as __iconNode,m as default};
