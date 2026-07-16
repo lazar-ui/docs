@@ -1,0 +1,27 @@
+import{H as e,N as c}from"./iframe-CuM5Wzi8.js";import{B as u}from"./Button-DBZS9ZoQ.js";import{c as S}from"./clsx-B-dksMZM.js";import{$,a as I}from"./useModalOverlay-B7AAsU5x.js";import{s as A,i as L}from"./Overlay-td8Xhj9l.js";import{a as M}from"./useOverlayTriggerState-C6KImHAt.js";import{I as B}from"./Icon-x_BJ16jK.js";import{u as R}from"./useLocale-DqZeQJ1W.js";import{g as q}from"./getComponentSlots-7nMagK4n.js";import{g as w}from"./getVariantClassName-BPpmbSIb.js";import"./preload-helper-PPVm8Dsz.js";import"./index-CxFBVpb5.js";import"./index-DSrGs_u-.js";import"./isValidReactNode-64QzQBXc.js";import"./camelCase-DerEp_A_.js";var s=(o=>(o.ACTIONS="Dialog.Actions",o.CONTENT="Dialog.Content",o.TITLE="Dialog.Title",o))(s||{});const P="_root_1fxwu_1",X={root:P},g=o=>{const{children:n}=o;return e.jsx("div",{className:X.root,children:n})};g.displayName=s.ACTIONS;g.__docgenInfo={description:`Dialog Actions sub component.
+
+Used to render the actions of the dialog.`,methods:[]};const V="_root_jagsa_1",H={root:V},f=o=>{const{children:n}=o;return e.jsx("div",{className:H.root,children:n})};f.displayName=s.CONTENT;f.__docgenInfo={description:"",methods:[]};const K="Dialog",U=[s.ACTIONS,s.CONTENT,s.TITLE],W="_underlay_19rv4_26",Y="_modal_19rv4_35",F="_dialog_19rv4_42",G="_sizeXs_19rv4_54",J="_sizeSm_19rv4_57",Q="_sizeMd_19rv4_60",Z="_sizeLg_19rv4_63",ee="_header_19rv4_67",oe="_close_19rv4_75",ne="_actions_19rv4_83",se="_body_19rv4_88",a={underlay:W,modal:Y,dialog:F,sizeXs:G,sizeSm:J,sizeMd:Q,sizeLg:Z,header:ee,close:oe,actions:ne,body:se},h=o=>{const{children:n,container:d,open:i,modal:m=!0,onOpenChange:l,size:x="md"}=o,D=R(),C=c.useRef(null),p=c.useRef(null),{dialogProps:O}=$(o,C),y=M({isOpen:i,onOpenChange:l}),{modalProps:N,underlayProps:v}=I({isDismissable:!m,isKeyboardDismissDisabled:!1},y,p),{[s.ACTIONS]:T,[s.CONTENT]:b,[s.TITLE]:z}=c.useMemo(()=>q(n,U),[n]),E=k=>{k.preventDefault(),y.close()};if(!i)return null;const j=S(a.dialog,w("size",x,a));return e.jsx(A,{portalContainer:d,children:e.jsx("div",{className:a.underlay,...v,children:e.jsx("div",{className:a.modal,...N,ref:p,children:e.jsx(L,{getContainer:()=>p.current,children:e.jsxs("div",{className:j,...O,ref:C,children:[e.jsxs("div",{className:a.header,children:[z,e.jsx("button",{"aria-label":D.Dialog.close,className:a.close,onClick:E,children:e.jsx(B,{name:"x",size:16})})]}),b&&e.jsx("div",{className:a.body,children:b}),T&&e.jsx("div",{className:a.actions,children:T})]})})})})})};h.displayName=K;h.__docgenInfo={description:"Dialog component.",methods:[],displayName:"Dialog",props:{closeOnEscape:{required:!1,tsType:{name:"boolean"},description:"Close the dialog when the escape key is pressed."},container:{required:!1,tsType:{name:"HTMLElement"},description:`The container element in which the overlay portal will be placed.
+@default document.body`},onOpenChange:{required:!1,tsType:{name:"signature",type:"function",raw:"(isOpen: boolean) => void",signature:{arguments:[{type:{name:"boolean"},name:"isOpen"}],return:{name:"void"}}},description:"Callback that is called when the dialog is opened or closed."},modal:{required:!1,tsType:{name:"boolean"},description:`Whether the dialog is modal.
+Modal dialog is not dismissable by clicking outside or pressing the Escape key.`},open:{required:!1,tsType:{name:"boolean"},description:"Whether the dialog is open."},size:{required:!1,tsType:{name:"literal",value:"`${EElementSize.XS | EElementSize.SM | EElementSize.MD | EElementSize.LG}`"},description:"Size of the dialog."}},composes:["IAriaDialogProps"]};const te="_root_1ae0y_1",ae={root:te},_=o=>{const{children:n}=o;return e.jsx("div",{className:ae.root,children:n})};_.displayName=s.TITLE;_.__docgenInfo={description:"",methods:[]};const t=h;t.Actions=g;t.Content=f;t.Title=_;const{fn:ie}=__STORYBOOK_MODULE_TEST__,xe={title:"@lazar-ui／kit/Components/Dialog",component:t,subcomponents:{"Dialog.Content":t.Content,"Dialog.Actions":t.Actions},parameters:{layout:"centered"},tags:["autodocs"],argTypes:{modal:{table:{defaultValue:{summary:"false"}}},size:{control:{type:"select"},options:["xs","sm","md","lg"],table:{defaultValue:{summary:"md"},type:{summary:"xs | sm | md | lg"}}}},args:{onOpenChange:ie()}},r={render:function(n){const[d,i]=c.useState(!1),m=()=>{i(!0)},l=()=>{i(!1)};return e.jsxs(e.Fragment,{children:[e.jsx(u,{onClick:m,children:"Open Dialog"}),e.jsxs(t,{...n,open:d,onOpenChange:i,children:[e.jsx(t.Content,{children:"Dialog Content"}),e.jsxs(t.Actions,{children:[e.jsx(u,{onClick:l,children:"Ok"}),e.jsx(u,{onClick:l,variant:"secondary",children:"Cancel"})]})]})]})}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+  render: function Render(props) {
+    const [open, setOpen] = useState(false);
+    const handleClick = () => {
+      setOpen(true);
+    };
+    const handleCloseClick = () => {
+      setOpen(false);
+    };
+    return <>
+        <Button onClick={handleClick}>Open Dialog</Button>
+        <Dialog {...props} open={open} onOpenChange={setOpen}>
+          <Dialog.Content>Dialog Content</Dialog.Content>
+          <Dialog.Actions>
+            <Button onClick={handleCloseClick}>Ok</Button>
+            <Button onClick={handleCloseClick} variant="secondary">
+              Cancel
+            </Button>
+          </Dialog.Actions>
+        </Dialog>
+      </>;
+  }
+}`,...r.parameters?.docs?.source}}};const De=["Default"];export{r as Default,De as __namedExportsOrder,xe as default};
