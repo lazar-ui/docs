@@ -1,6 +1,0 @@
-import{c as a}from"./createLucideIcon-BFlUQjT3.js";import"./iframe-CuM5Wzi8.js";import"./preload-helper-PPVm8Dsz.js";import"./Icon-x_BJ16jK.js";import"./clsx-B-dksMZM.js";/**
- * @license lucide-react v1.17.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */const t=[["path",{d:"M3 20a2 2 0 0 0 2 2h10a2.4 2.4 0 0 0 1.706-.706l3.588-3.588A2.4 2.4 0 0 0 21 16V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2z",key:"r586nh"}],["path",{d:"M15 22v-5a1 1 0 0 1 1-1h5",key:"xl3app"}],["path",{d:"M8 2v4",key:"1cmpym"}],["path",{d:"M16 2v4",key:"4m81vk"}],["path",{d:"M3 10h18",key:"8toen8"}]],c=a("calendar-fold",t);export{t as __iconNode,c as default};
